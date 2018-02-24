@@ -66,4 +66,4 @@ d3.json("world.json", function (error, world) {
 
 });
 
-//　画像の地図の場合はこれ参考 https://code.i-harness.com/ja/q/20bbb76
+//　画像の場合はこれ参考 https://code.i-harness.com/ja/q/20bbb76
